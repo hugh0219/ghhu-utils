@@ -1,0 +1,21 @@
+{
+  "name": "@ghhu/utils",
+  "version": "1.0.0",
+  "description": "ghhu开发工具",
+  "main": "index.js",
+  "scripts": {
+    "check": "node bin/check-npm-version.js"
+  },
+  "author": "ghhu",
+  "license": "ISC",
+  "dependencies": {
+    "jsencrypt": "^3.3.2"
+  },
+  "keywords": [
+    "js",
+    "utils"
+  ],
+  "engines": {
+    "node": ">=14"
+  }
+}
